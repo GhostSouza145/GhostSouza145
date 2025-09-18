@@ -1,6 +1,6 @@
 # 👨‍💻 Raphael Souza
 
-**Desenvolvedor FullStack**
+**Desenvolvedor Backend**
 
 Olá, me chamo Raphael e sou desenvolvedor, estou cursando ADS e amo a área de tech.  
 Atualmente estou no segundo semestre da faculdade e vou compartilhar meus projetos aqui no GitHub.  
