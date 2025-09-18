@@ -44,3 +44,10 @@ Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=60"
   />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
