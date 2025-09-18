@@ -32,8 +32,8 @@ Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=60) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=60) |
 |:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
 
-| ![GitHub Streak](https://streak-stats.demolab.com?user=GhostSouza145&theme=tokyonight&date_format=j%20M%5B%20Y%5D) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&theme=tokyo-night&area=true&hide_border=true) |
-|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&theme=tokyo-night&area=true&hide_border=true) |
+|:----------------------------------------------------------------------------------------------------------------------------:|
 
 <p align="center">
   <picture>
