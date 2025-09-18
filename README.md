@@ -44,3 +44,13 @@ Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=3600"
   />
 </p>
+
+---
+
+### 📂 Projetos Recentes
+
+- [Projeto 1](https://github.com/GhostSouza145/projeto1) - Descrição do projeto 1
+- [Projeto 2](https://github.com/GhostSouza145/projeto2) - Descrição do projeto 2
+- [Projeto 3](https://github.com/GhostSouza145/projeto3) - Descrição do projeto 3
+- [Projeto 4](https://github.com/GhostSouza145/projeto4) - Descrição do projeto 4
+- [Projeto 5](https://github.com/GhostSouza145/projeto5) - Descrição do projeto 5
