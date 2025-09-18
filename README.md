@@ -29,14 +29,15 @@ Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-
 
 ### 📈 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=60"
   />
-
+</p>
+<p align="center">
   <img 
     alt="Top Languages" 
     height="200px" 
