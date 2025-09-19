@@ -1,6 +1,7 @@
 # 👨‍💻 Raphael Souza 
 <a href="https://github.com/GhostSouza145">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" 
+       alt="Meu GIF" width="150" height="150" style="border-radius:50%;">
 </a>
 
 **Desenvolvedor Backend**
