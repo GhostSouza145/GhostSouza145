@@ -30,6 +30,18 @@ Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-
 <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
 
 <br/><br/>
+---
+## 📌 Repositórios Principais
+
+- ⭐ **[Automação de Cadastro de Produtos](https://github.com/GhostSouza145/NOME-DO-REPO)**  
+  Projeto em Python que automatiza login e cadastro de produtos usando PyAutoGUI e Pandas.
+
+- ⭐ **[Outro Projeto Importante](https://github.com/GhostSouza145/NOME-DO-REPO2)**  
+  Descrição rápida sobre o que este projeto faz e por que é importante.
+
+- ⭐ **[Mais um Projeto](https://github.com/GhostSouza145/NOME-DO-REPO3)**  
+  Pequena descrição do projeto para que os visitantes entendam o objetivo.
+---
 
 ### 📈 Estatísticas
 
