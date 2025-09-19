@@ -10,14 +10,8 @@ Olá, me chamo Raphael e sou desenvolvedor, estou cursando ADS e amo a área de 
 Atualmente estou no segundo semestre da faculdade e vou compartilhar meus projetos aqui no GitHub.  
 Meu perfil do LinkedIn é ["Raphael Souza"](https://www.linkedin.com/in/raphael-souza-23ba8b242)
 
-<p align="left">
-  <a href="https://github.com/GhostSouza145?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GhostSouza145?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=seguidores&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GhostSouza145?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GhostSouza145?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
+![Seguidores](https://img.shields.io/github/followers/GhostSouza145?style=for-the-badge&color=blue&labelColor=darkblue&label=Seguidores)
+![Stars](https://img.shields.io/github/stars/GhostSouza145?style=for-the-badge&color=yellow&labelColor=yellow&label=Estrelas)
 
 ---
 
