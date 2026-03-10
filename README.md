@@ -90,8 +90,11 @@
 
 <div align="center">
 
-[![Automação](https://github-readme-stats.vercel.app/api/pin/?username=GhostSouza145&repo=Projeto_PoweUp&theme=tokyonight&hide_border=true)](https://github.com/GhostSouza145/Projeto_PoweUp)
-[![RetroEnd](https://github-readme-stats.vercel.app/api/pin/?username=GhostSouza145&repo=RetroEnd&theme=tokyonight&hide_border=true)](https://github.com/GhostSouza145/RetroEnd)
+[![Automação](https://img.shields.io/badge/⚡_Automação_de_Cadastro_de_Produtos-Python_|_PyAutoGUI_|_Pandas-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/Projeto_PoweUp)
+
+[![RetroEnd](https://img.shields.io/badge/🎮_RetroEnd-Python_|_Backend_Retrô-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/RetroEnd)
+
+[![LandingPage](https://img.shields.io/badge/🌐_Landing_Page-HTML5_|_CSS3-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/LandingPage)
 
 </div>
 
