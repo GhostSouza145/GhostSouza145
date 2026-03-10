@@ -1,102 +1,152 @@
+<!-- ████████████████████████████████████████ -->
+<!-- ██  RAPHAEL SOUZA — GITHUB PROFILE README  ██ -->
+<!-- ████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Banner animado / wave superior -->
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:00d4ff&height=200&section=header&text=Raphael%20Souza&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20ADS%20Student&descAlignY=65&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a192f,100:00fff2&height=280&section=header&text=RAPHAEL%20SOUZA&fontSize=62&fontColor=00fff2&fontAlignY=45&desc=⚡%20Backend%20Developer%20%7C%20ADS%20Student%20%7C%20Tech%20Enthusiast&descAlignY=68&descSize=16&animation=twinkling&stroke=00fff2&strokeWidth=1)
 
 </div>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<a href="https://github.com/GhostSouza145">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" 
-       width="120" height="120" style="border-radius:50%; border: 3px solid #00d4ff;"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Inicializando+perfil...+%E2%96%88;%3E+Carregando+dados+do+desenvolvedor...;%3E+Hello+World%2C+eu+sou+o+Raphael+%F0%9F%91%BE;%3E+Backend+Developer+em+construcao+%F0%9F%9A%80;%3E+Transformando+cafe+em+codigo+desde+2023+%E2%98%95)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+%F0%9F%91%8B;Desenvolvedor+Backend+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80;Cursando+ADS+%7C+2%C2%BA+Semestre;Apaixonado+por+tecnologia+e+c%C3%B3digo+%F0%9F%92%BB)](https://git.io/typing-svg)
+<!-- SOCIAL BADGES -->
+<div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-23ba8b242)
-[![GitHub](https://img.shields.io/badge/GitHub-GhostSouza145-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145)
-[![Seguidores](https://img.shields.io/github/followers/GhostSouza145?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Seguidores&logo=github)](https://github.com/GhostSouza145?tab=followers)
-[![Stars](https://img.shields.io/github/stars/GhostSouza145?style=for-the-badge&color=ffd700&labelColor=0d1117&label=Stars&logo=github)](https://github.com/GhostSouza145)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-Raphael_Souza-0077B5?style=for-the-badge&logoColor=white&labelColor=020c1b&color=0077B5)](https://www.linkedin.com/in/raphael-souza-23ba8b242)
+[![GitHub](https://img.shields.io/badge/%F0%9F%91%BE_GitHub-GhostSouza145-00fff2?style=for-the-badge&labelColor=020c1b&color=00fff2&logoColor=black)](https://github.com/GhostSouza145)
+[![Followers](https://img.shields.io/github/followers/GhostSouza145?style=for-the-badge&labelColor=020c1b&color=00fff2&label=%F0%9F%91%A5+Seguidores&logo=github&logoColor=00fff2)](https://github.com/GhostSouza145?tab=followers)
+[![Stars](https://img.shields.io/github/stars/GhostSouza145?style=for-the-badge&labelColor=020c1b&color=ffd700&label=%E2%AD%90+Stars&logo=github&logoColor=ffd700)](https://github.com/GhostSouza145)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+<!-- ═══════════════════════════════════════ -->
+<!-- ABOUT ME SECTION                        -->
+<!-- ═══════════════════════════════════════ -->
 
-```python
-class Raphael:
-    def __init__(self):
-        self.nome        = "Raphael Souza"
-        self.curso       = "Análise e Desenvolvimento de Sistemas (ADS)"
-        self.semestre    = "2º Semestre"
-        self.foco        = "Backend Development"
-        self.linguagens  = ["Python", "Java", "JavaScript"]
-        self.status      = "Construindo projetos e evoluindo todo dia 🚀"
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
-    def objetivo(self):
-        return "Transformar lógica em código limpo e eficiente."
+### `> whoami`
 
-eu = Raphael()
-print(eu.objetivo())
+```bash
+┌──[raphael@ghost ~]
+└─$ cat sobre_mim.txt
+
+  Nome     : Raphael Souza
+  Alias    : GhostSouza145
+  Curso    : Análise e Desenv. de Sistemas
+  Semestre : 2º Semestre
+  Foco     : Backend Development
+  Status   : Building & Learning every day 🚀
+  
+  Paixões  : [código, tecnologia, automação]
+  Objetivo : Dominar o Backend e além ⚡
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🤖 Linguagens & Tecnologias
+<!-- ═══════════════════════════════════════ -->
+<!-- TECH STACK                              -->
+<!-- ═══════════════════════════════════════ -->
+
+### `> ls ./tecnologias`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+<!-- ═══════════════════════════════════════ -->
+<!-- PROJECTS                               -->
+<!-- ═══════════════════════════════════════ -->
+
+### `> cat projetos.json`
+
+```json
+{
+  "projetos": [
+    {
+      "nome": "⚡ Automação de Cadastro de Produtos",
+      "repo": "GhostSouza145/Projeto_PoweUp",
+      "descricao": "Automatiza login e cadastro de produtos usando PyAutoGUI + Pandas",
+      "stack": ["Python", "PyAutoGUI", "Pandas"],
+      "status": "✅ Concluído"
+    },
+    {
+      "nome": "🎮 RetroEnd",
+      "repo": "GhostSouza145/RetroEnd",
+      "descricao": "Projeto backend com identidade visual retrô e lógica moderna",
+      "stack": ["Python"],
+      "status": "🔧 Em desenvolvimento"
+    },
+    {
+      "nome": "🌐 Landing Page",
+      "repo": "GhostSouza145/LandingPage",
+      "descricao": "Página web responsiva construída com HTML e CSS puros",
+      "stack": ["HTML5", "CSS3"],
+      "status": "✅ Concluído"
+    }
+  ]
+}
+```
 
 <div align="center">
 
-| 🗂️ Projeto | 📝 Descrição | 🛠️ Tecnologias |
-|:---:|:---:|:---:|
-| [**⚡ Automação de Cadastro**](https://github.com/GhostSouza145/Projeto_PoweUp) | Automatiza login e cadastro de produtos com PyAutoGUI e Pandas | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**🎮 RetroEnd**](https://github.com/GhostSouza145/RetroEnd) | Projeto backend com estética retrô e funcionalidades modernas | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**🌐 Landing Page**](https://github.com/GhostSouza145/LandingPage) | Página web responsiva e moderna com HTML/CSS | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+[![Automação](https://github-readme-stats.vercel.app/api/pin/?username=GhostSouza145&repo=Projeto_PoweUp&theme=tokyonight&hide_border=true&bg_color=020c1b&title_color=00fff2&text_color=a8b2d8&icon_color=00fff2)](https://github.com/GhostSouza145/Projeto_PoweUp)
+[![RetroEnd](https://github-readme-stats.vercel.app/api/pin/?username=GhostSouza145&repo=RetroEnd&theme=tokyonight&hide_border=true&bg_color=020c1b&title_color=00fff2&text_color=a8b2d8&icon_color=00fff2)](https://github.com/GhostSouza145/RetroEnd)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- ═══════════════════════════════════════ -->
+<!-- STATS                                   -->
+<!-- ═══════════════════════════════════════ -->
+
+### `> ./github --stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=6&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020c1b&title_color=00fff2&icon_color=00fff2&text_color=a8b2d8&ring_color=00fff2" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=020c1b&title_color=00fff2&text_color=a8b2d8" />
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GhostSouza145&theme=tokyonight&hide_border=true&background=020c1b&stroke=00fff2&ring=00fff2&fire=ff6b35&currStreakLabel=00fff2&sideLabels=00fff2&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&theme=tokyo-night&area=true&hide_border=true&bg_color=020c1b&color=00fff2&line=00fff2&point=ffffff&area_color=00fff210)
 
 </div>
 
 ---
 
-## 🐍 Contribuições
+<!-- ═══════════════════════════════════════ -->
+<!-- SNAKE                                   -->
+<!-- ═══════════════════════════════════════ -->
+
+### `> snake --contributions`
 
 <div align="center">
   <picture>
@@ -108,23 +158,30 @@ print(eu.objetivo())
 
 ---
 
-## 📬 Onde me encontrar
+<!-- ═══════════════════════════════════════ -->
+<!-- QUOTE                                   -->
+<!-- ═══════════════════════════════════════ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-23ba8b242)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1f35,100:0d1117&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,60:0a192f,100:020c1b&height=120&section=footer&animation=twinkling)
 
-<img src="https://komarev.com/ghpvc/?username=GhostSouza145&style=for-the-badge&color=00d4ff&label=VISITAS+AO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=GhostSouza145&style=for-the-badge&color=00fff2&labelColor=020c1b&label=VISITAS+AO+PERFIL"/>
 
-*"O código que você escreve hoje é a fundação do dev que você será amanhã."* 💙
+```
+╔═══════════════════════════════════════════╗
+║  "Code is not just syntax — it's vision." ║
+║               — Raphael Souza             ║
+╚═══════════════════════════════════════════╝
+```
 
 </div>
