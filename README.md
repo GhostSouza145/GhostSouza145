@@ -4,14 +4,14 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a192f,100:00fff2&height=280&section=header&text=RAPHAEL%20SOUZA&fontSize=62&fontColor=00fff2&fontAlignY=45&desc=⚡%20Backend%20Developer%20%7C%20ADS%20Student%20%7C%20Tech%20Enthusiast&descAlignY=68&descSize=16&animation=twinkling&stroke=00fff2&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a192f,100:00fff2&height=280&section=header&text=RAPHAEL%20SOUZA&fontSize=62&fontColor=00fff2&fontAlignY=45&desc=⚡%20Desenvolvedor%20Backend%20%7C%20Estudante%20de%20ADS%20%7C%20Entusiasta%20de%20Tecnologia&descAlignY=68&descSize=16&animation=twinkling&stroke=00fff2&strokeWidth=1)
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Inicializando+perfil...+%E2%96%88;%3E+Carregando+dados+do+desenvolvedor...;%3E+Hello+World%2C+eu+sou+o+Raphael+%F0%9F%91%BE;%3E+Backend+Developer+em+construcao+%F0%9F%9A%80;%3E+Transformando+cafe+em+codigo+desde+2023+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Inicializando+perfil...+%E2%96%88;%3E+Carregando+dados+do+desenvolvedor...;%3E+Ol%C3%A1%2C+eu+sou+o+Raphael+%F0%9F%91%BE;%3E+Desenvolvedor+Backend+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80;%3E+Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2023+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,11 +42,11 @@
 └─$ cat sobre_mim.txt
 
   Nome     : Raphael Souza
-  Alias    : GhostSouza145
+  Apelido  : GhostSouza145
   Curso    : Análise e Desenv. de Sistemas
   Semestre : 2º Semestre
-  Foco     : Backend Development
-  Status   : Building & Learning every day 🚀
+  Foco     : Desenvolvimento Backend
+  Status   : Construindo e aprendendo todo dia 🚀
   
   Paixões  : [código, tecnologia, automação]
   Objetivo : Dominar o Backend e além ⚡
@@ -66,7 +66,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css&theme=dark&perline=7" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=7" />
 
 </div>
 
@@ -178,10 +178,10 @@
 <img src="https://komarev.com/ghpvc/?username=GhostSouza145&style=for-the-badge&color=00fff2&labelColor=020c1b&label=VISITAS+AO+PERFIL"/>
 
 ```
-╔═══════════════════════════════════════════╗
-║  "Code is not just syntax — it's vision." ║
-║               — Raphael Souza             ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║  "Código não é só sintaxe — é visão de futuro."║
+║                   — Raphael Souza              ║
+╚════════════════════════════════════════════════╝
 ```
 
 </div>
