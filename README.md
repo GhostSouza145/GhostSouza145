@@ -1,159 +1,165 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=RAPHAEL%20SOUZA&fontSize=60&fontColor=fff&fontAlignY=38&desc=⚡%20Desenvolvedor%20Backend%20%7C%20Estudante%20de%20ADS%20%7C%20Entusiasta%20de%20Tecnologia&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
-</div>
 
-<!-- TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=%3E+Inicializando+perfil...+%E2%96%88;%3E+Carregando+dados+do+desenvolvedor...;%3E+Ol%C3%A1%2C+eu+sou+o+Raphael+%F0%9F%91%BE;%3E+Desenvolvedor+Backend+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80;%3E+Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2023+%E2%98%95" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Raphael%20Souza&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A6%20onde%20o%20c%C3%B3digo%20encontra%20o%20sonho%20%E2%9C%A6&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Raphael Souza" />
+
+<a href="https://github.com/GhostSouza145">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=BD93F9&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Ol%C3%A1%21+Eu+sou+o+Raphael+Souza;%F0%9F%92%BB+Desenvolvedor+Frontend+%7C+Full+Stack+em+forma%C3%A7%C3%A3o;%F0%9F%8E%93+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%F0%9F%8C%8C+Transformando+problemas+em+software" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Localização](https://img.shields.io/badge/📍_Rio_de_Janeiro-Brasil-BD93F9?style=for-the-badge&labelColor=0d1117)
+![Formação](https://img.shields.io/badge/🎓_ADS-Em_formação-FF79C6?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/🚀_Aberto_a-Oportunidades-8BE9FD?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 <br/>
 
-<!-- BADGES -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-23ba8b242)
-[![GitHub](https://img.shields.io/badge/GitHub-GhostSouza145-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145)
-[![Seguidores](https://img.shields.io/github/followers/GhostSouza145?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=0ea5e9)](https://github.com/GhostSouza145?tab=followers)
-[![Stars](https://img.shields.io/github/stars/GhostSouza145?style=for-the-badge&label=Stars&logo=github&logoColor=white&color=f59e0b)](https://github.com/GhostSouza145)
-
-</div>
-
----
-
-<!-- ABOUT -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
-
-### `> whoami`
-
-```bash
-┌──[raphael@ghost ~]
-└─$ cat sobre_mim.txt
-
-  Nome     : Raphael Souza
-  Apelido  : GhostSouza145
-  Curso    : Análise e Desenv. de Sistemas
-  Semestre : 2º Semestre
-  Foco     : Desenvolvimento Full-Stack
-  Status   : Construindo e aprendendo todo dia 🚀
-
-  Paixões  : [código, tecnologia, automação]
-  Objetivo : Dominar o Backend e além ⚡
+```text
+   ✦ · ˚  ✧    ˚  ·  ✦     ·   ˚ ✧  ·    ✦  ˚   ·  ✧
+ ˚   ·    ┌──────────────────────────────┐   ✦    ·
+  ✧    ·  │  while (dreaming) {          │  ˚   ✧
+ ·    ✦   │      build(something_real);  │    ·   ˚
+   ˚   ·  │  }                           │  ✦   ·
+ ✦   ·  ˚ └──────────────────────────────┘ ·   ✧   ˚
 ```
 
-<br clear="right"/>
+## 🌠 Sobre mim
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com experiência prática na criação de aplicações **web**, **mobile** e **desktop**.
 
-<!-- SKILLS -->
-### `> ls ./tecnologias`
+Tenho trabalhado principalmente com **JavaScript, HTML, CSS, Python, SQL e React Native**, além de projetos envolvendo **APIs**, **bancos de dados**, **automação**, **análise de dados** e **visão computacional**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css&perline=7" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" />
-</div>
+> 🔮 *Meu objetivo é transformar problemas em soluções através de software e evoluir continuamente por meio de projetos práticos e experiências reais.*
 
----
+<br/>
 
-<!-- PROJECTS -->
-### `> cat projetos.json`
-
-```json
-{
-  "projetos": [
-    {
-      "nome": "⚡ Automação de Cadastro de Produtos",
-      "repo": "GhostSouza145/Projeto_PoweUp",
-      "descricao": "Automatiza login e cadastro de produtos com PyAutoGUI + Pandas",
-      "stack": ["Python", "PyAutoGUI", "Pandas"],
-      "status": "✅ Concluído"
-    },
-    {
-      "nome": "🎮 RetroEnd",
-      "repo": "GhostSouza145/RetroEnd",
-      "descricao": "Projeto backend com identidade visual retrô e lógica moderna",
-      "stack": ["Python"],
-      "status": "🔧 Em desenvolvimento"
-    },
-    {
-      "nome": "🌐 Landing Page",
-      "repo": "GhostSouza145/LandingPage",
-      "descricao": "Página web responsiva construída com HTML e CSS puros",
-      "stack": ["HTML5", "CSS3"],
-      "status": "✅ Concluído"
-    }
-  ]
-}
-```
+## 🛠️ Arsenal tecnológico
 
 <div align="center">
 
-[![Automação](https://img.shields.io/badge/⚡_Automação_de_Cadastro_de_Produtos-Python_|_PyAutoGUI_|_Pandas-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/Projeto_PoweUp)
+### 🎨 Frontend
 
-[![RetroEnd](https://img.shields.io/badge/🎮_RetroEnd-Python_|_Backend_Retrô-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/RetroEnd)
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
-[![LandingPage](https://img.shields.io/badge/🌐_Landing_Page-HTML5_|_CSS3-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostSouza145/LandingPage)
+### ⚙️ Backend e dados
+
+<img src="https://skillicons.dev/icons?i=py,go,sqlite&theme=dark" alt="Backend" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/APIs-REST-FF79C6?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+
+### 🧠 Dados e IA
+
+<img src="https://skillicons.dev/icons?i=pandas,matplotlib,opencv&theme=dark" alt="Dados e IA" />
+<br/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+
+### 🧰 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" alt="Ferramentas" />
+<br/>
+<img src="https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
 
 </div>
 
----
+<br/>
 
-<!-- STATS -->
-### `> ./github --estatisticas`
+## ⭐ Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ NuTreino</h3>
+      <p>Aplicação mobile para organização e acompanhamento de treinos.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Projeto PowerUp</h3>
+      <p>Automação em Python para login e cadastro de produtos com PyAutoGUI e Pandas.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyAutoGUI-FF79C6?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Olhar-AI</h3>
+      <p>Projeto experimental de visão computacional para detecção e processamento de imagens.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 FinanceFlow</h3>
+      <p>Aplicação desktop para gerenciamento financeiro, com interface moderna e banco local.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/CustomTkinter-BD93F9?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 Landing Page</h3>
+      <p>Projeto web responsivo desenvolvido com HTML e CSS.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 Estatísticas do universo GitHub
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&theme=tokyonight&langs_count=6&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GhostSouza145&show_icons=true&hide_border=true&bg_color=0d1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostSouza145&layout=compact&hide_border=true&bg_color=0d1117&title_color=BD93F9&text_color=F8F8F2" alt="Top Linguagens" />
+
+<img src="https://streak-stats.demolab.com?user=GhostSouza145&hide_border=true&background=0d1117&stroke=BD93F9&ring=FF79C6&fire=FFB86C&currStreakLabel=8BE9FD&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=6272A4" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&bg_color=0d1117&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&area_color=BD93F9&hide_border=true" alt="Gráfico de atividade" width="95%" />
 
 </div>
 
-<div align="center">
+<br/>
 
-  <img src="https://streak-stats.demolab.com?user=GhostSouza145&theme=tokyonight&hide_border=true"/>
+## 🔭 Atualmente
 
-</div>
+| | |
+|---|---|
+| 🌱 | Aprofundando conhecimentos em **desenvolvimento web** |
+| 🛠️ | Desenvolvendo **projetos práticos** |
+| 🏗️ | Estudando **arquitetura e integração** de aplicações |
+| 🎯 | Buscando minha **primeira oportunidade profissional** na área de desenvolvimento |
 
-<div align="center">
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhostSouza145&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<!-- SNAKE -->
-### `> snake --contribuicoes`
+## 📫 Vamos conversar?
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/GhostSouza145/GhostSouza145/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
 
----
+<a href="mailto:phael200320@gmail.com">
+  <img src="https://img.shields.io/badge/Email-phael200320@gmail.com-BD93F9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/raphaelsouzanogueira">
+  <img src="https://img.shields.io/badge/LinkedIn-raphaelsouzanogueira-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+</a>
+<a href="https://github.com/GhostSouza145">
+  <img src="https://img.shields.io/badge/GitHub-GhostSouza145-8BE9FD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
 
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=6272A4&center=true&vCenter=true&width=600&lines=%22Todo+grande+sistema+come%C3%A7ou+com+um+%C3%BAnico+commit.%22" alt="Frase" />
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&reversal=true" width="100%" alt="footer" />
 
-  <img src="https://komarev.com/ghpvc/?username=GhostSouza145&style=for-the-badge&color=0ea5e9&labelColor=1a1a2e&label=VISITAS+AO+PERFIL"/>
-
-```
-╔════════════════════════════════════════════════╗
-║  "Código não é só sintaxe — é visão de futuro."║
-║                   — Raphael Souza              ║
-╚════════════════════════════════════════════════╝
-```
 </div>
