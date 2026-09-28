@@ -35,7 +35,7 @@
   Apelido  : GhostSouza145
   Curso    : Análise e Desenv. de Sistemas
   Semestre : 2º Semestre
-  Foco     : Desenvolvimento Backend
+  Foco     : Desenvolvimento Full-Stack
   Status   : Construindo e aprendendo todo dia 🚀
 
   Paixões  : [código, tecnologia, automação]
